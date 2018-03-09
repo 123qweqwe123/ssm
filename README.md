@@ -1,30 +1,26 @@
 # ssm
 ## 本项目框架
-'ssm'框架
+'ssm'框架</br>
 定时器Demo </br>
 转发和重定向 </br>
-filter
-统一异常处理
-maven 项目直接引用
-shiro框架，logback日志
-缓存设置
-webscoket
-rqbit（短信服务）
-多线程
-httpclient
-文件传输
-文件服务器
-事务回滚 -传播 -aop
-定时器
-webservice
-xml avro protobuff 文件传输
-数据库用户和表空间啥的
-java 8新特性
-https
-实体类上面可以用注解做验证（herbinate）
-事物
-solr
-redis
-多线程
-设计模式
-druid
+filter</br>
+统一异常处理</br>
+maven </br>
+shiro框架，logback日志</br>
+缓存设置</br>
+webscoket</br>
+rqbit（短信服务）</br>
+多线程</br>
+httpclient</br>
+文件传输</br>
+文件服务器</br>
+事务回滚 -传播 -aop</br>
+定时器</br>
+webservice</br>
+xml avro protobuff 文件传输</br>
+java 8新特性</br>
+https</br>
+solr</br>
+redis</br>
+多线程</br>
+druid</br>
